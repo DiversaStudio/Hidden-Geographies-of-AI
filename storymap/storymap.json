@@ -1,0 +1,202 @@
+{
+    "storymap": {
+        "language": "en",
+        "map_type": "stamen:terrain",
+        "map_subdomains": "",
+        "map_as_image": false,
+        "calculate_zoom": true,
+        "zoomify": true,
+        "cartodb_name": "admin",
+        "cartodb_userid": "",
+        "slides": [
+            {
+                "type": "overview",
+                "text": {
+                    "headline": "Hidden Geographies of AI",
+                    "text": "<p>Behind every AI model, every smartphone, every data center lies a hidden geography of extraction, labor, and environmental impact that spans the globe.</p><p>This story reveals the true cost of artificial intelligence: how resources flow from the Global South to power innovation concentrated in the Global North.</p><p><em>Research by Andrés Domínguez Hernández (The Alan Turing Institute), Diana Mosquera & Francisco Gallegos (Diversa)</em></p>"
+                },
+                "location": {
+                    "lat": 20,
+                    "lon": 0,
+                    "zoom": 2,
+                    "line": false
+                },
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                }
+            },
+            {
+                "text": {
+                    "headline": "The Rare Earth Foundation",
+                    "text": "<p><strong>Bayan Obo Mine, China</strong></p><p>Deep in Inner Mongolia lies the world's largest rare earth mine, producing 45,000 tons annually of neodymium, dysprosium, and yttrium - essential elements in every AI chip and smartphone.</p><p>🏭 <strong>Production:</strong> 45,000 MT annually<br>👥 <strong>Workers:</strong> 25,000<br>💰 <strong>Avg. Wage:</strong> $400/month<br>🌍 <strong>Environmental Impact:</strong> 10/10 - Radioactive contamination</p><p>The rare earth elements extracted here form the backbone of global AI infrastructure, yet the environmental and health costs remain largely invisible to end users.</p>"
+                },
+                "location": {
+                    "lat": 41.8,
+                    "lon": 109.9,
+                    "zoom": 8,
+                    "line": true
+                },
+                "media": {
+                    "url": "",
+                    "caption": "Bayan Obo rare earth mine - the hidden foundation of AI hardware",
+                    "credit": "China Northern Rare Earth"
+                }
+            },
+            {
+                "text": {
+                    "headline": "The Shadow Supply Chain",
+                    "text": "<p><strong>Myanmar Kachin State</strong></p><p>In Myanmar's conflict zones, military-controlled mining operations extract rare earth elements under conditions of extreme violence and environmental destruction.</p><p>🏭 <strong>Production:</strong> 31,000 MT annually<br>👥 <strong>Workers:</strong> 50,000<br>💰 <strong>Avg. Wage:</strong> $150/month<br>🌍 <strong>Environmental Impact:</strong> 10/10 - Toxic exposure, deaths reported</p><p>Global Witness reports that Chinese-backed operations have led to toxic exposure and death among local communities. This represents the darkest edge of AI's supply chain.</p>"
+                },
+                "location": {
+                    "lat": 25.0,
+                    "lon": 98.0,
+                    "zoom": 7,
+                    "line": true
+                },
+                "media": {
+                    "url": "",
+                    "caption": "Myanmar rare earth mining - extraction under military control",
+                    "credit": "Global Witness"
+                }
+            },
+            {
+                "text": {
+                    "headline": "The Cobalt Crisis",
+                    "text": "<p><strong>Kolwezi Mining District, Democratic Republic of Congo</strong></p><p>The world's largest cobalt mining district, producing 84,000 tons annually - 70% of global supply. Cobalt is essential for the lithium-ion batteries that power AI data centers and devices.</p><p>🏭 <strong>Production:</strong> 84,000 MT annually<br>👥 <strong>Workers:</strong> 40,000<br>💰 <strong>Avg. Wage:</strong> $50/month<br>🌍 <strong>Environmental Impact:</strong> 10/10 - Child labor, water contamination</p><p>Amnesty International and other organizations have documented widespread child labor, with children as young as 7 working in dangerous conditions to extract cobalt for tech companies.</p>"
+                },
+                "location": {
+                    "lat": -10.7,
+                    "lon": 25.5,
+                    "zoom": 8,
+                    "line": true
+                },
+                "media": {
+                    "url": "",
+                    "caption": "Kolwezi cobalt mines - child labor in AI's supply chain",
+                    "credit": "Crawford, Kara"
+                }
+            },
+            {
+                "text": {
+                    "headline": "The Lithium Triangle",
+                    "text": "<p><strong>Salar de Uyuni, Bolivia</strong></p><p>The world's largest lithium reserve sits beneath Bolivia's salt flats. With 23 million tons of lithium reserves, this site could power the battery revolution - but at what cost to indigenous communities?</p><p>🏭 <strong>Reserves:</strong> 23 million MT<br>👥 <strong>Workers:</strong> 2,000<br>💰 <strong>Avg. Wage:</strong> $800/month<br>🌍 <strong>Environmental Impact:</strong> 7/10 - Indigenous displacement</p><p>Lithium extraction threatens traditional ways of life for indigenous communities who have lived on these lands for centuries, while the extracted lithium powers AI data centers thousands of miles away.</p>"
+                },
+                "location": {
+                    "lat": -20.13,
+                    "lon": -67.49,
+                    "zoom": 8,
+                    "line": true
+                },
+                "media": {
+                    "url": "",
+                    "caption": "Salar de Uyuni - lithium extraction from indigenous lands",
+                    "credit": "Harvard IRR, Human Rights Pulse"
+                }
+            },
+            {
+                "text": {
+                    "headline": "Digital Labor in the Shadows",
+                    "text": "<p><strong>Nairobi, Kenya</strong></p><p>While Silicon Valley develops AI, thousands of Kenyan workers moderate content and label data for tech giants. This invisible workforce trains the algorithms that will automate their own jobs.</p><p>👥 <strong>Workers:</strong> 40,000<br>💰 <strong>Avg. Wage:</strong> $65/month<br>🧠 <strong>Work:</strong> Content moderation, data labeling<br>⚠️ <strong>Impact:</strong> Mental health trauma, job insecurity</p><p>CBS News' 60 Minutes investigation revealed that workers face traumatic content daily while earning a fraction of Silicon Valley wages for the same companies.</p>"
+                },
+                "location": {
+                    "lat": -1.29,
+                    "lon": 36.82,
+                    "zoom": 9,
+                    "line": true
+                },
+                "media": {
+                    "url": "",
+                    "caption": "Nairobi content moderation centers - the hidden human workforce behind AI",
+                    "credit": "CBS News, 60 Minutes"
+                }
+            },
+            {
+                "text": {
+                    "headline": "The Data Assembly Line",
+                    "text": "<p><strong>Bangalore, India</strong></p><p>India's tech capital houses 250,000 digital workers who annotate data, moderate content, and train AI systems. This massive workforce forms the invisible backbone of machine learning.</p><p>👥 <strong>Workers:</strong> 250,000<br>💰 <strong>Avg. Wage:</strong> $350/month<br>🧠 <strong>Work:</strong> Data annotation, AI training<br>🏢 <strong>Companies:</strong> Amazon, iMerit, Clickworker</p><p>Gray & Suri's research shows how this 'ghost work' - invisible, on-demand labor - makes AI possible while keeping workers in precarious conditions.</p>"
+                },
+                "location": {
+                    "lat": 12.97,
+                    "lon": 77.6,
+                    "zoom": 9,
+                    "line": true
+                },
+                "media": {
+                    "url": "",
+                    "caption": "Bangalore data centers - the ghost workers training AI",
+                    "credit": "Gray & Suri, Fairwork"
+                }
+            },
+            {
+                "text": {
+                    "headline": "The Innovation Concentration",
+                    "text": "<p><strong>Silicon Valley, United States</strong></p><p>Here, extracted materials and digital labor converge into AI innovation. While representing less than 1% of global population, Silicon Valley captures the majority of AI's economic value.</p><p>👥 <strong>Workers:</strong> 500,000<br>💰 <strong>Avg. Wage:</strong> $18,000/month<br>🏢 <strong>Companies:</strong> Google, Meta, OpenAI<br>💡 <strong>Focus:</strong> AI research and development</p><p>The wage gap is stark: Silicon Valley AI workers earn 277x more than cobalt miners in DRC, yet both are essential to the same technological ecosystem.</p>"
+                },
+                "location": {
+                    "lat": 37.4,
+                    "lon": -122.1,
+                    "zoom": 9,
+                    "line": true
+                },
+                "media": {
+                    "url": "",
+                    "caption": "Silicon Valley - where extracted value concentrates into AI innovation",
+                    "credit": "Stanford HAI"
+                }
+            },
+            {
+                "text": {
+                    "headline": "The Energy Infrastructure",
+                    "text": "<p><strong>Northern Virginia, United States</strong></p><p>The world's largest concentration of data centers powers AI training and inference. These facilities consume more electricity than entire countries, requiring massive energy infrastructure.</p><p>⚡ <strong>Capacity:</strong> 1,799 MW<br>👥 <strong>Workers:</strong> 25,000<br>💰 <strong>Avg. Wage:</strong> $8,000/month<br>🌍 <strong>Environmental Impact:</strong> 7/10 - Massive energy consumption</p><p>Each AI training run can consume as much electricity as 100 homes use in a year, highlighting the environmental cost of artificial intelligence.</p>"
+                },
+                "location": {
+                    "lat": 38.9,
+                    "lon": -77.4,
+                    "zoom": 8,
+                    "line": true
+                },
+                "media": {
+                    "url": "",
+                    "caption": "Northern Virginia data centers - the energy infrastructure powering AI",
+                    "credit": "IEA"
+                }
+            },
+            {
+                "text": {
+                    "headline": "The True Cost",
+                    "text": "<p><strong>Global Impact Assessment</strong></p><p>The hidden geographies of AI reveal profound inequalities:</p><ul><li><strong>Environmental:</strong> Mining operations score 8-10/10 on environmental impact</li><li><strong>Labor:</strong> 277x wage gap between extraction and innovation</li><li><strong>Geographic:</strong> Value extraction from Global South, capture in Global North</li><li><strong>Social:</strong> Child labor, displacement, health impacts</li></ul><p>This map represents more than technology - it shows how AI development perpetuates global inequalities while concentrating benefits among the already privileged.</p>"
+                },
+                "location": {
+                    "lat": 20,
+                    "lon": 0,
+                    "zoom": 2,
+                    "line": false
+                },
+                "media": {
+                    "url": "",
+                    "caption": "The global geography of AI's hidden costs",
+                    "credit": "Diversa & The Alan Turing Institute"
+                }
+            },
+            {
+                "text": {
+                    "headline": "Toward Equitable AI",
+                    "text": "<p><strong>Lessons from the Margins</strong></p><p>Communities across the Global South are developing counter-hegemonic responses to AI extraction:</p><ul><li><strong>Community-controlled mining:</strong> Indigenous groups asserting resource sovereignty</li><li><strong>Platform cooperatives:</strong> Worker-owned alternatives to exploitative digital labor</li><li><strong>Local AI development:</strong> Context-appropriate technology for community needs</li><li><strong>Environmental justice:</strong> Movements demanding cleanup and reparations</li></ul><p>The future of AI depends on learning from these voices from the margins and building more equitable technological systems.</p><p><em>This research contributes to ongoing efforts to center Global South perspectives in AI governance and policy discussions.</em></p>"
+                },
+                "location": {
+                    "lat": 0,
+                    "lon": 0,
+                    "zoom": 2,
+                    "line": false
+                },
+                "media": {
+                    "url": "",
+                    "caption": "Building equitable AI futures",
+                    "credit": "Research by Domínguez Hernández, Mosquera & Gallegos"
+                }
+            }
+        ]
+    }
+}
