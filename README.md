@@ -2,9 +2,7 @@
 
 An interactive visualization of the global AI value chain, revealing the hidden geographies that make artificial intelligence possible.
 
-## 🎬 Two Interactive Experiences
-
-### 1. **StoryMap Version** (`story.html`)
+## StoryMap Version (`story.html`)
 A narrative-driven journey through the AI supply chain using StoryMapJS:
 - **11 chapters** progressing from mineral extraction to innovation concentration
 - **Transitions** between geographic locations
