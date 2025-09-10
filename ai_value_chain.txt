@@ -1,0 +1,50 @@
+site_id,site_name,country,region,category,subcategory,latitude,longitude,production_volume,production_unit,workforce_size,avg_wage_usd_monthly,environmental_impact_score,human_rights_violations,key_companies,source_authors,data_year
+1,Tenke Fungurume Mine,Democratic Republic of Congo,Central Africa,mineral_extraction,cobalt,-10.7,26.1,28500,MT_annual,15000,60,9,child_labor,China Molybdenum,"Crawford, RAID",2023
+2,Kolwezi Mining District,Democratic Republic of Congo,Central Africa,mineral_extraction,cobalt,-10.7,25.5,84000,MT_annual_district,40000,50,10,child_labor_water_contamination,"Glencore, Eurasian Resources","Crawford, Kara",2024
+3,Mutanda Mine,Democratic Republic of Congo,Central Africa,mineral_extraction,cobalt,-10.8,25.6,27300,MT_annual,8000,65,8,environmental_degradation,Glencore,"Crawford, RAID",2018
+4,KOV Mine,Democratic Republic of Congo,Central Africa,mineral_extraction,cobalt,-10.73,25.47,15000,MT_annual,5000,55,8,labor_violations,"COMIDE, Gécamines","Amnesty, Crawford",2023
+5,Salar de Uyuni,Bolivia,South America,mineral_extraction,lithium,-20.13,-67.49,23000000,MT_reserves,2000,800,7,indigenous_displacement,"YLB, Lilac Solutions","Harvard IRR, Human Rights Pulse",2024
+6,Salar de Atacama,Chile,South America,mineral_extraction,lithium,-24.0,-69.0,180000,MT_annual,3500,1200,8,water_depletion,"SQM, Albemarle","Harvard IRR",2023
+7,Bayan Obo Mine,China,Asia,mineral_extraction,rare_earth,41.8,109.9,45000,MT_annual,25000,400,10,radioactive_contamination,China Northern Rare Earth,"Harvard IRR, IPS",2024
+8,Myanmar Kachin State,Myanmar,Asia,mineral_extraction,rare_earth,25.0,98.0,31000,MT_annual,50000,150,10,toxic_exposure_death,Military Junta,"Global Witness",2024
+9,Escondida Mine,Chile,South America,mineral_extraction,copper,-24.3,-69.1,1350000,MT_annual,8000,2500,6,water_usage,BHP Billiton,"NS Energy",2023
+10,Bangka Island,Indonesia,Asia,mineral_extraction,tin,-2.0,106.0,80000,MT_annual,150000,300,9,marine_ecosystem_destruction,"PT Timah, illegal miners","Geographical",2023
+11,Bangalore,India,Asia,digital_labor,data_annotation,12.97,77.6,,workers,250000,350,1,platform_exploitation,"Amazon, iMerit, Clickworker","Gray & Suri, Fairwork",2024
+12,Manila,Philippines,Asia,digital_labor,data_annotation,14.6,121.0,,workers,150000,200,2,wage_theft,"Scale AI, Remotasks","Washington Post, Rest of World",2024
+13,Nairobi,Kenya,Africa,digital_labor,content_moderation,-1.29,36.82,,workers,40000,65,3,mental_health_trauma,"Sama, Meta subcontractors","CBS News, 60 Minutes",2024
+14,Caracas,Venezuela,South America,digital_labor,platform_work,10.5,-66.9,,workers,80000,180,4,economic_desperation,"Multiple platforms","Rest of World, Posada",2024
+15,São Paulo,Brazil,South America,digital_labor,BPO,-23.5,-46.6,,workers,133000,863,2,precarious_employment,"Multiple BPO companies","HatchWorks, TDS Global",2024
+16,Cape Town,South Africa,Africa,digital_labor,BPO,-33.9,18.4,,workers,75000,800,2,labor_arbitrage,"Multiple BPO companies",BPESA,2024
+17,Silicon Valley,United States,North America,ai_research,development,37.4,-122.1,,workers,500000,180000,1,concentration_of_power,"Google, Meta, OpenAI","Stanford HAI",2024
+18,Boston,United States,North America,ai_research,development,42.4,-71.1,,workers,100000,160000,1,research_concentration,"MIT, Harvard","Federal Budget IQ",2024
+19,Tel Aviv,Israel,Middle East,ai_research,development,32.1,34.8,,workers,25000,120000,2,innovation_hub,"Multiple startups",Alicorn,2024
+20,Toronto,Canada,North America,ai_research,development,43.7,-79.4,,workers,80000,140000,1,tech_hub_growth,"University of Toronto, Vector Institute",Alicorn,2024
+21,Beijing,China,Asia,ai_research,development,39.9,116.4,,workers,300000,80000,2,state_controlled_development,"Baidu, Alibaba, ByteDance","Visual Capitalist",2024
+22,London,United Kingdom,Europe,ai_research,development,51.5,-0.1,,workers,150000,150000,1,financial_center_advantage,"DeepMind, Multiple startups",Alicorn,2024
+23,Northern Virginia,United States,North America,data_centers,hyperscale,38.9,-77.4,1799,MW_capacity,25000,8000,7,energy_consumption,"Amazon, Microsoft, Google",IEA,2024
+24,Dublin,Ireland,Europe,data_centers,hyperscale,53.3,-6.3,1200,MW_capacity,15000,7000,8,electricity_grid_strain,"Google, Meta, Microsoft",IEA,2024
+25,Singapore,Singapore,Asia,data_centers,tropical,1.35,103.8,800,MW_capacity,12000,6000,7,water_consumption,"Multiple operators",IEA,2024
+26,Frankfurt,Germany,Europe,data_centers,regional,50.1,8.7,600,MW_capacity,8000,6500,6,renewable_energy_transition,"Multiple operators",IEA,2024
+27,Shanghai,China,Asia,data_centers,regional,31.2,121.5,900,MW_capacity,20000,4000,6,rapid_expansion,"Alibaba, Tencent","Visual Capitalist",2024
+28,Eemshaven,Netherlands,Europe,data_centers,hyperscale,53.4,6.8,120,MW_single_facility,500,7000,6,renewable_powered,Google,IEA,2024
+29,DRC Mining Regions,Democratic Republic of Congo,Central Africa,environmental_impact,deforestation,-5.0,23.0,490000,hectares_lost_2020,,,10,biodiversity_loss,Multiple mining companies,"Global Forest Watch",2020
+30,Atacama Desert,Chile,South America,environmental_impact,water_depletion,-24.5,-69.2,500000000,gallons_per_tonne,,,9,aquifer_depletion,"SQM, Albemarle","Harvard IRR",2023
+31,Indonesian Forests,Indonesia,Asia,environmental_impact,habitat_destruction,-0.8,113.9,300000,hectares_threatened,,,8,marine_pollution,Mining companies,Geographical,2023
+32,Global Data Centers,Global,Global,environmental_impact,carbon_emissions,0.0,0.0,560000000000,liters_annually,,,7,climate_change,Tech companies,IEA,2024
+33,Small Island States,Global,Global,environmental_impact,sea_level_rise,0.0,0.0,4.62,mm_per_year_rise,70000000,,10,existential_threat,Climate change,"EU Commission",2022
+34,Sorowako Mine,Indonesia,Asia,mineral_extraction,nickel,-2.5736,121.3742,64100,MT_annual,4000,1100,7,land_disputes_criminalization_of_protest,"PT Vale Indonesia, MIND ID, Vale Canada, Sumitomo Metal Mining","Discovery Alert, Wikipedia, Vale, BHRRC",2024
+35,Rio Tuba Mine,Philippines,Asia,mineral_extraction,nickel,8.57,117.4189,46780,MT_annual,2000,530,9,water_contamination_health_impacts_indigenous_rights_violations,"Nickel Asia Corporation, Sumitomo Metal Mining","BHRRC, FoE Japan, Global Witness, Wikipedia",2024
+36,Kola MMC (Norilsk Nickel),Russia,Europe,mineral_extraction,nickel,69.3333,88.2167,205000,MT_annual_company_total,7000,2250,10,extreme_air_pollution_right_to_healthy_environment,MMC Norilsk Nickel (Nornickel),"Bellona.org, Nornickel, GlobalData",2024
+37,Greenbushes Mine,Australia,Oceania,mineral_extraction,lithium,-33.8661,116.0647,1444908,MT_concentrate_annual,900,6600,5,community_conflict_over_dust_noise,"Talison Lithium (Tianqi Lithium, Albemarle)","WA Govt, CorpWatch, NS Energy, Talison",2023
+38,Fenix Project (Salar del Hombre Muerto),Argentina,South America,mineral_extraction,lithium,-25.5,-67.0833,22500,MT_LCE_annual,110,850,8,water_depletion_indigenous_rights_violations,"Arcadium Lithium (Livent/Allkem), POSCO","BHRRC, Salares.org, Wikipedia, POSCO",2024
+39,San Rafael Mine,Peru,South America,mineral_extraction,tin,-14.2347,-70.3213,26995,MT_annual,1581,60,6,legacy_environmental_contamination,"Minsur (Breca Group)","Min. of Energy & Mines Peru, Minsur, Connectas, ERI",2023
+40,Mount Weld Mine,Australia,Oceania,mineral_extraction,rare_earth,-28.86,122.5478,15970,MT_REO_annual,200,6600,4,none_reported,Lynas Rare Earths,"Lynas, Mining-Technology, Wikipedia",2023
+41,Mountain Pass Mine,United States,North America,mineral_extraction,rare_earth,35.4786,-115.5322,42400,MT_REO_annual,681,4650,3,none_reported,MP Materials,"MP Materials, Wikipedia, CorpWatch",2024
+42,Ambatovy Mine,Madagascar,Africa,mineral_extraction,nickel,-18.83,48.2,40000,MT_annual,10000,400,8,forest_displacement_livelihood_loss,"Sherritt International, Korea Resources","Amnesty International, Reuters",2022
+43,Weda Bay Industrial Park,Indonesia,Asia,mineral_extraction,nickel,-0.43,128.25,45000,hectares_concession,20000,500,9,land_grabbing_health_impacts,"Tsingshan Holding, Eramet","Climate Rights International, HRW",2024
+44,Man Maw Mine,Myanmar,Asia,mineral_extraction,tin,23.08,99.03,33000,MT_annual,500,400,9,armed_conflict_financing_child_labor,UWSA leaders companies,"Global Witness, Reuters",2024
+45,Kachin State Rare Earth,Myanmar,Asia,mineral_extraction,rare_earth,25.08,98.08,30000,MT_annual,12500,400,10,militia_control_toxic_exposure_death,Chinese-backed militia companies,"Global Witness",2024
+46,Ok Tedi Mine,Papua New Guinea,Oceania,mineral_extraction,copper,-5.03,141.03,200000,MT_annual,3600,1000,10,indigenous_displacement_river_contamination,Ok Tedi Mining Limited,"Human Rights Watch, PNG Government",2024
+47,Boké Region Bauxite,Guinea,Africa,mineral_extraction,bauxite,10.15,-14.05,87000000,MT_annual,50000,90,8,farmland_expropriation_dust_pollution,"SMB, CBG Alcoa Rio Tinto","Human Rights Watch",2024
+48,Greenbushes Lithium Mine,Australia,Oceania,mineral_extraction,lithium,-33.13,116.02,1950000,MT_annual,1200,5250,7,community_health_dust_pollution,"Talison Lithium, Tianqi, Albemarle","WA Government, Discovery Alert",2024
+49,Santiago Data Center Hub,Chile,South America,data_centers,regional,-33.45,-70.67,338,MW_capacity,2750,2200,7,water_usage_concerns,"Google, Microsoft, AWS, Equinix","Rest of World, Business & Human Rights",2024
