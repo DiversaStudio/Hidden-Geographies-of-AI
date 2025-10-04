@@ -23,10 +23,17 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
+      - name: Prepare storymap files
+        run: |
+          mkdir _site
+          cp -r storymap _site/
+          cp story.html _site/index.html
+          cp -r js _site/js
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: storymap
+          path: _site
 
       - name: Deploy to GitHub Pages
         id: deployment
